@@ -1,0 +1,2 @@
+# prise-RDV-web-site
+This site is I submitted for university graduation with point 18/20. Patient registration interface Patient entry interface Doctor registration interface Physician login interface Administrator login interface Control panel for physician, patient and administrator with AJAX features Doctor profile A sophisticated search page in terms of accurate results Home page with an organized graphic The database is free from errors and easy to handle
